@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: U2FServer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.jin.U2FServer
+Build-Jdk: 1.7.0_79
+Built-By: YaLin
+Created-By: Maven Integration for Eclipse
+
